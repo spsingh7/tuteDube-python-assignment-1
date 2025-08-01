@@ -10,7 +10,7 @@ This repository contains simple Python programs to demonstrate basic input, outp
   - Subtraction
   - Multiplication
   - Division (with zero-check)
-- Displays the results.
+- Print the results.
 
 ### 2. task2.py
 - Takes user's first and last name.
